@@ -2,7 +2,7 @@ name = "yomu"
 main = "src/index.js"
 compatibility_date = "2022-07-25"
 
-account_id = "a17741b5d7bbb1cfa6a8ff5d8df55521"
+account_id = "123"
 
 [[r2_buckets]]
 binding = 'Bucket' # <~ valid JavaScript variable name
